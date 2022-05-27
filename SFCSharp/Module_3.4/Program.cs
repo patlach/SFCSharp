@@ -13,7 +13,7 @@ namespace Module_3._4
             Console.WriteLine(myFavorite);
 
             int olddata = 6;
-            string data = olddata;
+            int data = olddata;
 
             Console.ReadLine();
         }
