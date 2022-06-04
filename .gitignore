@@ -6,16 +6,4 @@
 **/bin/*
 **/obj/*
 **/.vs/*
-/SFCSharp/Module_3.4/bin/Debug/netcoreapp3.1
-/SFCSharp/Module_3.4/obj
-/SFCSharp/Module_3.3/obj
-/SFCSharp/Module_3.7/bin/Debug/netcoreapp3.1
-/SFCSharp/Module_3.7/obj
-/SFCSharp/Module_3.2/bin/Debug/netcoreapp3.1
-/SFCSharp/Module_3.2/obj
-/SFCSharp/.vs/SFCSharp
-/SFCSharp/Module_4.1/bin/Debug/netcoreapp3.1
-/SFCSharp/Module_4.1/obj
-/SFCSharp/Module_4.2/bin/Debug/netcoreapp3.1
-/SFCSharp/Module_4.2/obj
-/SFCSharp/Module_5.2/bin/Debug/netcoreapp3.1
+
