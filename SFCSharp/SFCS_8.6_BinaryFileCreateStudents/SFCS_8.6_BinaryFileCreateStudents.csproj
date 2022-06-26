@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>SFCS_8._6_BinaryFileCreateStudents</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SFCS_8.6_BinaryUpload\SFCS_8.6_BinaryUpload.csproj" />
+  </ItemGroup>
+
+</Project>
