@@ -14,12 +14,17 @@ namespace SFCS_9._6_MyException
             ex[3] = new ArgumentOutOfRangeException();
             ex[4] = new ArgumentException();
 
-            foreach (Exception e in ex)
+            try
             {
-                Console.WriteLine(e);
+                foreach (Exception e in ex)
+                {
+                    Console.WriteLine(e);
+                }
             }
-            
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
-
     }
 }
