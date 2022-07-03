@@ -31,7 +31,7 @@ namespace SFCS_8._6.BinaryUpload
                         }
                     }
 
-                    Console.WriteLine("Files in folder: {0}", saveFilePath);
+                    Console.WriteLine("Files in folder: {0}", saveFilePath );
                 }
                 catch (Exception ex)
                 {
