@@ -21,11 +21,9 @@ namespace SFCS_15._6._16_LinqClasses
 
         static string[] GetAllStudents(Classroom[] classes)
         {
-            // Напишите метод, который соберет всех учеников всех классов в один список, используя LINQ.
-            var a = (from students in classes
+            return (from students in classes
                      from student in students.Students
                      select student).ToArray();
-            return a;
         }
 
         public class Classroom
