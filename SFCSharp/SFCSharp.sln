@@ -77,7 +77,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SFCS_13.6.2_ListAndLinkedLi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module_14.1", "Module_14.1\Module_14.1.csproj", "{253D4DC3-4D3D-427A-A773-F2A275F191EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFCS_15.6.16_LinqClasses", "SFCS_15.6.16_LinqClasses\SFCS_15.6.16_LinqClasses.csproj", "{1F176F3D-5D7F-41C5-9468-D3C55FB564B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SFCS_15.6.16_LinqClasses", "SFCS_15.6.16_LinqClasses\SFCS_15.6.16_LinqClasses.csproj", "{1F176F3D-5D7F-41C5-9468-D3C55FB564B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_13_5_8", "Module_13_5_8\Module_13_5_8.csproj", "{923A2F7E-63E1-4EC0-BF85-DDC58D0B9EFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{1F176F3D-5D7F-41C5-9468-D3C55FB564B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F176F3D-5D7F-41C5-9468-D3C55FB564B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F176F3D-5D7F-41C5-9468-D3C55FB564B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923A2F7E-63E1-4EC0-BF85-DDC58D0B9EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923A2F7E-63E1-4EC0-BF85-DDC58D0B9EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923A2F7E-63E1-4EC0-BF85-DDC58D0B9EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923A2F7E-63E1-4EC0-BF85-DDC58D0B9EFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

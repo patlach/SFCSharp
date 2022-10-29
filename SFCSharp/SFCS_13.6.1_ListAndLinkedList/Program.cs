@@ -10,7 +10,7 @@ namespace SFCS_13._6._1_ListAndLinkedList
         static void Main(string[] args)
         {
             Console.WriteLine("Enter path to file: ");
-            string path = @"C:\Users\epolushin\Downloads\Text1.txt";//Console.ReadLine();
+            string path = @"C:\temp\Text1.txt";//Console.ReadLine();
 
             string[] lines = File.ReadAllLines(path);
 
