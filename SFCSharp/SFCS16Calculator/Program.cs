@@ -10,6 +10,7 @@ namespace SFCS16Calculator
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

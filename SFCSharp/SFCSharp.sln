@@ -91,6 +91,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFCS16Calculator.Tests", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFCS16Calculator", "SFCS16Calculator\SFCS16Calculator.csproj", "{7DC5FF45-F8E4-49BC-BACD-3ECBD3F48ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFCSADONET24", "SFCSADONET24\SFCSADONET24.csproj", "{E5DD98D6-2034-468A-B7DD-B09A9FC3B1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFCSADONET24Console", "SFCSADONET24Console\SFCSADONET24Console.csproj", "{27973587-0C8F-448B-98F5-3B45BB674689}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +277,14 @@ Global
 		{7DC5FF45-F8E4-49BC-BACD-3ECBD3F48ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC5FF45-F8E4-49BC-BACD-3ECBD3F48ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC5FF45-F8E4-49BC-BACD-3ECBD3F48ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DD98D6-2034-468A-B7DD-B09A9FC3B1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DD98D6-2034-468A-B7DD-B09A9FC3B1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DD98D6-2034-468A-B7DD-B09A9FC3B1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DD98D6-2034-468A-B7DD-B09A9FC3B1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27973587-0C8F-448B-98F5-3B45BB674689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27973587-0C8F-448B-98F5-3B45BB674689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27973587-0C8F-448B-98F5-3B45BB674689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27973587-0C8F-448B-98F5-3B45BB674689}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

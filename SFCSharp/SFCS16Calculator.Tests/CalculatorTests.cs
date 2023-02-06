@@ -40,5 +40,11 @@ namespace SFCS16Calculator.Tests
             Assert.AreEqual(3, division);
         }
 
+        [Test]
+        public void TestVoid()
+        {
+            Assert.That(1 == 0.1);
+        }
+
     }
 }
