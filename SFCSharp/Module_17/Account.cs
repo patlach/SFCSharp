@@ -9,7 +9,7 @@ namespace Module_17
     public class Account
     {
         // тип учетной записи
-        public IAccounttype Type { get; set; }
+        public IAccountType Type { get; set; }
 
         // баланс учетной записи
         public double Balance { get; set; }

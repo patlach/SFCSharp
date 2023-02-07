@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Module_17
 {
-    public class SimpleAccount : IAccounttype
+    public class SimpleAccount : IAccountType
     {
         public double CalculateInterest(Account account)
         {

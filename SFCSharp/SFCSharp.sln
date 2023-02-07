@@ -97,6 +97,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SFCSADONET24Console", "SFCS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_17Refactoring", "Module_17\Module_17Refactoring.csproj", "{37FBB085-7D45-44DD-A4CC-2E2F7F6612D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module18.Builder", "Module18.Builder\Module18.Builder.csproj", "{FFE2FA9D-D3AE-4FC9-ABA2-B08F27E849C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module18.СonveyorBuilder", "Module18.СonveyorBuilder\Module18.СonveyorBuilder.csproj", "{A6856E63-956D-44F3-8079-546750A78C56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +295,14 @@ Global
 		{37FBB085-7D45-44DD-A4CC-2E2F7F6612D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37FBB085-7D45-44DD-A4CC-2E2F7F6612D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37FBB085-7D45-44DD-A4CC-2E2F7F6612D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE2FA9D-D3AE-4FC9-ABA2-B08F27E849C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE2FA9D-D3AE-4FC9-ABA2-B08F27E849C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE2FA9D-D3AE-4FC9-ABA2-B08F27E849C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE2FA9D-D3AE-4FC9-ABA2-B08F27E849C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6856E63-956D-44F3-8079-546750A78C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6856E63-956D-44F3-8079-546750A78C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6856E63-956D-44F3-8079-546750A78C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6856E63-956D-44F3-8079-546750A78C56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
