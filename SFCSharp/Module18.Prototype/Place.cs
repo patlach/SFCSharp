@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Module18.Prototype
 {
-    class Place : ILocation
+    class Place : Point
     {
         string Address;
 

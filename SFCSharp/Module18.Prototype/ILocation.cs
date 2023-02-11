@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Module18.Prototype
 {
-    interface ILocation
+    interface ILocation : Point
     {
         /// Метод для клонирования
         ILocation Clone();

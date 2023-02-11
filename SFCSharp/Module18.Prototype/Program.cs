@@ -30,4 +30,5 @@ namespace Module18.Prototype
                 clonedLocation.GetInfo();
             }
         }
+   
 }
